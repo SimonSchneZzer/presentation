@@ -4,7 +4,9 @@
   import path from 'path';
 
   export default defineConfig({
+    base: '/presentation/',
     plugins: [react()],
+    build: { target: 'esnext', outDir: 'build' },
     resolve: {
       extensions: ['.js', '.jsx', '.ts', '.tsx', '.json'],
       alias: {
