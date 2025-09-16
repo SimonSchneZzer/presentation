@@ -183,7 +183,7 @@ export function Slide2() {
           <div className="bg-green-400/40 p-4 rounded-full flex-shrink-0 shadow-lg">
             <CheckCircle className="w-8 h-8" />
           </div>
-          <span className="font-medium drop-shadow-sm leading-relaxed">Reimbursement of project expenses (50+ applications/year)</span>
+          <span className="font-medium drop-shadow-sm leading-relaxed">Reimbursement of 210€ per project </span>
         </div>
         
         <div className="bg-white/15 backdrop-blur-md p-8 rounded-2xl flex items-center gap-8 hover:bg-white/20 transition-all border border-white/25 shadow-xl">
